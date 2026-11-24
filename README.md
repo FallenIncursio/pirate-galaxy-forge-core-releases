@@ -2,20 +2,29 @@
 
 Inoffizieller 64-Bit-Communityclient für Pirate Galaxy.
 
-**[Windows-Installer herunterladen](https://github.com/FallenIncursio/pirate-galaxy-forge-core-releases/releases/download/v0.2.0-alpha.17/PirateGalaxyForgeCore-0.2.0-alpha.17-Setup.exe)** · **0.2.0-alpha.17** · [Releasehinweise und Prüfsummen](https://github.com/FallenIncursio/pirate-galaxy-forge-core-releases/releases/tag/v0.2.0-alpha.17)
+**[Windows-Installer herunterladen](https://github.com/FallenIncursio/pirate-galaxy-forge-core-releases/releases/download/v0.2.0-alpha.17/PirateGalaxyForgeCore-0.2.0-alpha.17-Setup.exe)** · **0.2.0-alpha.17**
 
-Core enthält die gemeinsame 64-Bit-Technik, allgemeine Korrekturen und begrenzten Komfort. Die ursprüngliche Hilfe bleibt erhalten. Zusätzliche Optionen stehen in der nativen Erweiterung der Spieleinstellungen.
+Gemeinsame 64-Bit-Technik, allgemeine Korrekturen und begrenzter Komfort. Die Originalhilfe bleibt erhalten; zusätzliche Optionen stehen in den Spieleinstellungen.
 
-[Core / Enhanced und 32-Bit-Vergleich](FEATURES.md) · [Änderungen dieser Ausgabe](0.2.0-alpha.17.md) · [Installation und Profilübernahme](INSTALLER-UPDATER.md) · [Zielanzeigen und Diagnose](ALPHA17-TARGET-UI-AUDIO.md)
+[Installation](docs/user/INSTALLATION.md) · [Funktionen und 32-Bit-Vergleich](docs/user/FUNKTIONEN.md) · [Bedienung](docs/user/HILFE.md) · [Diagnose](docs/user/DIAGNOSE.md) · [Quellen](docs/sources/QUELLEN.md)
 
-Core und Enhanced korrigieren die Initialisierung von Schiffsnamen und Symbolen sowie unabhängige Lebens-/Schildbalken. Begrenzte UI- und Audio-Diagnose erleichtert die Fehlersuche, ohne automatische Berichte oder zusätzliche Spielserverabfragen.
+## Neu in 0.2.0-alpha.17
 
-Enthalten sind modernisierte Bibliotheken, allgemeine Sicherheits- und Ressourcenverbesserungen, der D3D11-HUD-Texturfix, FPS/VSync, HUD-Größe, Chat-Uhrzeit, verschiebbare Komponenten, Ping/FPS unten rechts, Remnant-Filter, Sirius-Bauplanfarben und Kryonitmengen.
+Namensfix und UI-/Audio-Diagnose. [Änderungen und Prüfstand](docs/releases/0.2.0-alpha.17.md) · [Alle Versionen](CHANGELOG.md).
 
-Orbitalwarnungen, Bossleisten und weitere Zusatzanzeigen gehören zu **[Forge Enhanced](https://github.com/FallenIncursio/pirate-galaxy-forge-releases)**. Beide Editionen teilen dieselbe Core-Implementierung.
+## Core und Enhanced
 
-Voraussetzungen: Windows 10/11 x64 und .NET Framework 4.8. Der Starter lädt die geprüfte Spielbasis und Java-Laufzeit bei Bedarf. Core nutzt einen eigenen Datenordner und übernimmt keine Enhanced-Profile automatisch.
+| Core | Enhanced |
+| --- | --- |
+| [0.2.0-alpha.17](https://github.com/FallenIncursio/pirate-galaxy-forge-core-releases) | [0.2.0-alpha.28](https://github.com/FallenIncursio/pirate-galaxy-forge-releases) |
+| Gemeinsame Technik und ausgewählter Komfort | Core plus zusätzliche Forge-Funktionen |
 
-Build-, Installations- und Sandbox-Prüfungen stehen im [Release-Prüfstand](RELEASE-STATUS-0.2-alpha.17.md). Vollständige OTB-Matchabläufe, weitere GPUs, Wine/macOS und Langzeittests sind separat zu prüfen. Kamerabhängige Helligkeit, die native Sirius-Absturzursache und ein reproduzierter D3D11-Materialfehler bleiben offen.
+Getrennte Installationen und Updatekanäle; eine gemeinsame Core-Implementierung.
 
-Updates sind RSA-signiert; der Installer besitzt keine Windows-Authenticode-Signatur. Bibliotheksquellen und Lizenzhinweise gehören zu den Release-Downloads. Forge bleibt eine experimentelle Alpha ohne behauptete offizielle Splitscreen-Freigabe.
+## Voraussetzungen und Grenzen
+
+Windows 10/11 x64, .NET Framework 4.8 und Internetzugang. Spielversion **1002133**. D3D11 als Standard, D3D9 als auswählbarer Fallback. Der Starter lädt Spielbasis und Java-Laufzeit.
+
+Forge bleibt eine experimentelle Alpha. Kamerabhängige Terrainhelligkeit, einzelne Ruckler und weitere native Grafik-/Absturzfälle sind offen. Keine pauschale FPS-Zusage oder behauptete Splitscreen-Freigabe.
+
+[Datenschutz und freiwillige Berichte](docs/user/DATENSCHUTZ.md).
