@@ -2,7 +2,7 @@
 
 [Übersicht](../../README.md) · [Bedienung](HILFE.md) · [Änderungen](../../CHANGELOG.md)
 
-Stand: **Core 0.2.0-alpha.17 · Enhanced 0.2.0-alpha.28 · Spielversion 1002133**.
+Stand: **Core 0.2.0-alpha.35 · Enhanced 0.2.0-alpha.35 · Spielversion 1002133**.
 
 Core enthält die gemeinsame 64-Bit-Technik, allgemeine Fehlerkorrekturen und
 begrenzten Komfort. Enhanced ergänzt dieselbe Grundlage um die Forge-Oberflächen.
@@ -18,7 +18,7 @@ Die Tabelle beschreibt den veröffentlichten Umfang, keine verworfenen Versuche.
 | Bedienung | Verschiebbare Komponenten, Chat-Uhrzeit, Discord-Spielstatus | Komfort ohne Änderung von Serverregeln |
 | Ziele | Remnant-Filter, Sirius-Bauplanfarben, Kryonitmenge | Ergänzung vorhandener Zielinformationen |
 | Einrichtung | Eigener Starter, geprüfte Updates, Reparatur, Profilübernahme innerhalb der Edition | Getrennte Spielkopie mit eigenen Updatekanälen |
-| Diagnose | Live-Logs, Start-/Hängerdiagnose und freiwilliger Bericht | Zusätzliche lokale Fehlersuche |
+| Diagnose | Live-Logs, Start-/Laufzeithängerdiagnose, gezielter Neustart und freiwilliger Bericht | Zusätzliche lokale Fehlersuche |
 
 Gezielte gemeinsame Korrekturen betreffen unter anderem Komponentenstatus,
 Missionsdialoge, schnelle Scans, Drohnenslots, Zielvorschauen, Namen und Statusbalken,
@@ -32,24 +32,25 @@ Fehler in jeder Version des 32-Bit-Originals.
 
 | Bereich | Ergänzung | Einstellung / Einstieg |
 | --- | --- | --- |
-| Bauplanliste | Suche, Typ-/System-/Fortschrittsfilter, Merkliste, Vergleich und Einkaufsplan | Forge → Baupläne / Ausrüstung |
-| Bauplanexport | CSV aller gefilterten Treffer, einschließlich Teilezahlen | Forge → Baupläne → CSV exportieren |
+| Bauplanliste | Suche, Typ-/Bereichs-/Fortschrittsfilter mit originalen Spielbezeichnungen, eigene Bereiche für Events und RDX/Parsec, optionales automatisches Abhaken vollständiger BPs; stabile Seiten beim Markieren, Vergleich und Einkaufsplan | Forge → Baupläne / Ausrüstung; Anzeige → HUD & Grafik |
+| Bauplanexport | CSV aller gefilterten Treffer, einschließlich Teilezahlen, System und Bereich | Forge → Baupläne → CSV exportieren |
 | Bauplan-Fundorte | Planet/System, Gegner, bekannte Level und Kartenbereiche mit Gegnerbildern | Forge → Baupläne → Fundorte |
-| Scanfenster | Mögliche blaue/goldene Baupläne mit eigenem Bestand, einschließlich Sirius-Zuordnung | Forge → Anzeige; Giza/Soris/Amarna ausgeschlossen |
+| Scanfenster | Mögliche blaue/goldene Baupläne mit eigenem Bestand, einschließlich Sirius-Zuordnung; gemeinsame geprüfte Dropdaten mit der Fundortsuche | Forge → Anzeige; Giza/Soris/Amarna ausgeschlossen |
 | Sirius | Bekannte Quarc-Freigabe und Teilezahlen gelber Baupläne; Sortierung und Merkliste | Forge → Anzeige → HUD & Grafik |
 | Errungenschaften | Suche, Status-/System-/Bereichsfilter und Sortierung; goldene Abschlussanzeige | Pilotenprofil → Errungenschaften; unter Anzeige abschaltbar |
 | Bossleisten | HP, Effekte, bekannte Itemklasse, Schild-/Schutzreserve, Zielwahl per Klick | Forge → Anzeige → Bossleisten |
 | Bossauftritte | Namen und optionale Musik; Remnants nur XC/SC, außerdem Königin und Sirius-Bosse | Forge → Anzeige → Kampf & Effekte |
 | Staffel | Erweiterte HP-/Effektanzeige und Schild-/Schutzreserve mit optionalen Prozentwerten | Forge → Anzeige → Kampf & Effekte |
-| Reparaturfelder | Spieler und PvE getrennt: Original, leicht/stark reduziert, Kontur | Forge → Anzeige → Kampf & Effekte |
+| Reparaturfelder | Spieler, PvE und feindliche Spieler getrennt: Original, leicht/stark reduziert, Kontur; PvP-Felder optional rot | Forge → Anzeige → Kampf & Effekte |
 | Komponenten | Eigene Tasten, Reichweitenmarkierungen, Zahlen-/Kreis-Zeitanzeige | Forge → Anzeige → Komponenten / Forge → Tasten |
 | Kampfansicht | Orbitalschlaghinweise, HP-Warnschwelle, rote Bildschirmränder | Forge → Anzeige → Kampf & Effekte |
 | Remnants | Beutekarten und Variantenbestände, ergänzte Warte-/HP-Anzeigen, lokale Kampfberichte | Remnant-Anzeige / Forge |
 | OTB | Lokale Aktivitätswerte und Warn-Countdown mit Testvorschau | Forge → Anzeige → Widgets |
 | Gravitonen | Beobachteter Drop oder geschätzter Countdown im sechsten Slot | Forge → Anzeige → Widgets |
+| Reisekosten | Nächster niedrigerer Hypersprungpreis mit Countdown und gültigem Mitgliedschaftsrabatt | Reisefenster; Forge → Anzeige → HUD & Grafik |
 | Sammeln | Große Energiekugel markieren, Kryonitstatistik, Drohnen-Levelzeitschätzung | Forge → Anzeige → Widgets |
 | Kriegswertung | KW-Tracker, letzte Gutschriften, Kategorien, Verlauf und CSV | Forge → Anzeige → Widgets |
-| Reise | Positionsmerker und lokale Reiseplanung/-erinnerungen | Forge → Reise |
+| Updates | Lokale Releasehistorie mit Datum, Versionsreihen und Seitenwechsel; leuchtendes F und einmalige PG-Meldung bei ungelesenen Neuigkeiten | Forge → Updates; Anzeige → Meldungen & Discord |
 | Meldungen | Native PG-Leiste, Alle / Nur wichtige, Testmeldung | Forge → Anzeige → Meldungen & Discord |
 | Anpassung | Statusfarben, eigene Sounds/Musik und lokale Antriebsspuren | Forge → Anzeige / Audio / Antrieb |
 
