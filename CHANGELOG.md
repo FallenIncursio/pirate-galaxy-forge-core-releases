@@ -6,6 +6,7 @@ Jede Versionsseite beschreibt nur ihre Änderungen. Vollständige frühere Beric
 
 | Version | Änderung |
 | --- | --- |
+| [0.2.0-alpha.36](docs/releases/0.2.0-alpha.36.md) | Mac-Starter und gemeinsame Laufzeitkorrekturen |
 | [0.2.0-alpha.35](docs/releases/0.2.0-alpha.35.md) | Robustere Downloads und Wiederherstellung |
 | [0.2.0-alpha.17](docs/releases/0.2.0-alpha.17.md) | Namensfix und UI-/Audio-Diagnose |
 | [0.2.0-alpha.16](docs/releases/0.2.0-alpha.16.md) | Cache-Upgrade und eindeutige Startfehler |
