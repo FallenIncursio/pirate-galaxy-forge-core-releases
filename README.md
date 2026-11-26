@@ -2,21 +2,21 @@
 
 Inoffizieller 64-Bit-Communityclient für Pirate Galaxy.
 
-**[Windows-Installer herunterladen](https://github.com/FallenIncursio/pirate-galaxy-forge-core-releases/releases/download/v0.2.0-alpha.36/PirateGalaxyForgeCore-0.2.0-alpha.36-Setup.exe)** · **0.2.0-alpha.36**
+**[Windows-Installer herunterladen](https://github.com/FallenIncursio/pirate-galaxy-forge-core-releases/releases/download/v0.2.0-alpha.37/PirateGalaxyForgeCore-0.2.0-alpha.37-Setup.exe)** · **0.2.0-alpha.37**
 
 Gemeinsame 64-Bit-Technik, allgemeine Korrekturen und begrenzter Komfort. Die Originalhilfe bleibt erhalten; zusätzliche Optionen stehen in den Spieleinstellungen.
 
 [Installation](docs/user/INSTALLATION.md) · [Funktionen und 32-Bit-Vergleich](docs/user/FUNKTIONEN.md) · [Bedienung](docs/user/HILFE.md) · [Diagnose](docs/user/DIAGNOSE.md) · [Quellen](docs/sources/QUELLEN.md)
 
-## Neu in 0.2.0-alpha.36
+## Neu in 0.2.0-alpha.37
 
-Mac-Starter und gemeinsame Laufzeitkorrekturen. [Änderungen und Prüfstand](docs/releases/0.2.0-alpha.36.md) · [Alle Versionen](CHANGELOG.md).
+Sichere Clankassen-Zuweisung. [Änderungen und Prüfstand](docs/releases/0.2.0-alpha.37.md) · [Alle Versionen](CHANGELOG.md).
 
 ## Core und Enhanced
 
 | Core | Enhanced |
 | --- | --- |
-| [0.2.0-alpha.36](https://github.com/FallenIncursio/pirate-galaxy-forge-core-releases) | [0.2.0-alpha.36](https://github.com/FallenIncursio/pirate-galaxy-forge-releases) |
+| [0.2.0-alpha.37](https://github.com/FallenIncursio/pirate-galaxy-forge-core-releases) | [0.2.0-alpha.37](https://github.com/FallenIncursio/pirate-galaxy-forge-releases) |
 | Gemeinsame Technik und ausgewählter Komfort | Core plus zusätzliche Forge-Funktionen |
 
 Getrennte Installationen und Updatekanäle; eine gemeinsame Core-Implementierung.

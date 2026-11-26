@@ -16,6 +16,13 @@ Zielanzeigen ergänzen den eigenen Remnant-Filter, bekannte Sirius-Bauplanfarben
 und Kryonitmengen. Allgemeine Korrekturen an Namen, Vorschauen und Dialogen gelten
 unabhängig von zusätzlichen Enhanced-Anzeigen.
 
+## Clankasse
+
+Bei Schädeln, Gravitonen und Kryonit zeigt eine zusätzliche Bestätigung Empfänger
+und Menge. Prüfe beides vor dem Bestätigen. Während einer Zuweisung bleibt die
+Auswahl gesperrt. Meldet Forge ein unbekanntes Ergebnis, prüfe zuerst den Bestand,
+bevor du den Dialog erneut öffnest. Bestehende Clanregeln bleiben unverändert.
+
 ## Start und Fehlersuche
 
 Rendererwahl, Reparatur und Diagnose sind über den **Forge-Core-Starter** erreichbar.
