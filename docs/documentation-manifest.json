@@ -92,7 +92,8 @@
     "docs/user/DIAGNOSE.md": "a79b87a2bfc6124e77d22c0f75a5afcbfe646ce6b7baf121e936782949977bc7",
     "docs/user/FUNKTIONEN.md": "843c62f0182bea6d53e5ea8209bcc2338c7cfa209f745031d6b6f6807b17f535",
     "docs/user/HILFE.md": "b964f423558abd435c547a6825551884173703f52f7706b4d60c12a2a85264af",
-    "docs/user/INSTALLATION.md": "949576639237919fab4b18022433e6ffa14c705ce0196c4e0b74d1232837f9c4"
+    "docs/user/INSTALLATION.md": "949576639237919fab4b18022433e6ffa14c705ce0196c4e0b74d1232837f9c4",
+    "docs/releases/0.2.0-alpha.48.md": "a7dfd9f141b5b40183aca676784b743e9ca5bc97b7ad694655d3a519d8421102"
   },
   "game_build": "1002133",
   "legacy_snapshot_commit": "a2fe8aa69d62c1d0f79aa47052d4977a3da48982",
