@@ -2,10 +2,10 @@
   "edition": "core",
   "files": {
     ".gitattributes": "514051d98e9e983969d595584d352c4a1e9d207dc6497f4f3637a0be9716bdfa",
-    "CHANGELOG.md": "fa71349e1064a4dca0740cdd430ad5a7e17fe812bfc73fff5aed0dcb5a494d73",
+    "CHANGELOG.md": "8dc64c74411d206138afa8c9fa0c059f05a2d036dbabe6e7e75c0d4e1bb5615e",
     "FEATURES.md": "a4685dcd850038bf3a6b74fa62339288d356133c6fd6e2ee77c4e8ba3d2b6714",
     "INSTALLER-UPDATER.md": "b04dbf2cf57cea06fcec383cf442027899bd5ddfe71d4a6696a2dc671ebf8ddb",
-    "README.md": "70a97b3780118ba0365d4d18a8f92a65044ff37da257c79e11281ba2833efb51",
+    "README.md": "3bc2001d0160871f807cfaa70cdc08de1e5ac820ce4d44c4815ebe6b4f5000df",
     "docs/archive/README.md": "d42a7b33be3b8569fa994fd4bf40d7e5a2688a32890c24fa674bdf6cc0bbb9d3",
     "docs/archive/overview/FEATURES.md": "0f1086283b1d59b182bdcd57fee9f97f338559bd5d61d6e0ac85f5a4ae725e5b",
     "docs/archive/overview/GAME-BASIS-1002133.md": "495db2803f92b24371a762aa11380259b56ded53843533cf13f4a664deebe61e",
@@ -83,23 +83,23 @@
     "docs/releases/0.2.0-alpha.43.md": "b797e43f6344fce4ee3c5093025e49dcff0a489a406f32af13457a4c6c0b3359",
     "docs/releases/0.2.0-alpha.44.md": "0e5563c214fb032890aeeae9e114cbd6e9dce888975480ab0b6f99ba2f4c4f6e",
     "docs/releases/0.2.0-alpha.46.md": "12b85bcb87484b2d7ae6ddddc5792034410b6b934859871d2a1ce634522837de",
-    "docs/releases/0.2.0-alpha.48.md": "e31234689f9a00b3f48e26eeba257e03ea870d33ada74fd0e38c61a52ddbb87f",
+    "docs/releases/0.2.0-alpha.48.md": "4c3027ddc6d337baa3759a4863050d395e528fc027fd1f801dcb8dbb7e5c016d",
+    "docs/releases/0.2.0-alpha.49.md": "ba73d965fa6a9171183c198752d045b4f3d9c7d4535f726b68722d1104a54e8c",
     "docs/releases/0.2.0-alpha.5.md": "4a01241261c29b9e54819337ccdde82142049313eb8c98bcc3d09c0caf276d04",
     "docs/releases/0.2.0-alpha.6.md": "7480cf9cf2705bd10c61d9222fbc592dbe2b034e17312f38e233fda2c64ac917",
     "docs/releases/0.2.0-alpha.7.md": "9f7efc8d1fb5791781e18df503c12f931fe2af62b652f0bd5eef7501208c6a77",
     "docs/releases/0.2.0-alpha.9.md": "a28340a61af999f54fed8e3dd3a36a92c23a68ae831e2168badcecf0b3fc08b1",
-    "docs/sources/QUELLEN.md": "207fbc31cec5607a6658fae3ec62474f51a9450950023e8770b0f8e36ac99cac",
+    "docs/sources/QUELLEN.md": "b52e01c2d02b55b6bffa04c2a51ff2cdd12ee56ec57216d791982e355af9750a",
     "docs/user/DATENSCHUTZ.md": "292d72f6b40ac225a5703074298636b39a713c116e2e7dfed9551049fa615b57",
     "docs/user/DIAGNOSE.md": "a79b87a2bfc6124e77d22c0f75a5afcbfe646ce6b7baf121e936782949977bc7",
-    "docs/user/FUNKTIONEN.md": "243180298c030351b695f00d752434f9d8e744dcb4e2e76bb9035903232dbc7e",
+    "docs/user/FUNKTIONEN.md": "fe72dce9db9198c813c7b6a4d3384016e5efe2e39f71f6aee7571d14e3ccf6d2",
     "docs/user/HILFE.md": "b964f423558abd435c547a6825551884173703f52f7706b4d60c12a2a85264af",
-    "docs/user/INSTALLATION.md": "33bf05819a5a87dac27318c05f50a92b1e91a998c02445e5293a89acb49893ca",
-    "docs/releases/0.2.0-alpha.49.md": "06c726805b863109415e2427d66954413d57c46ea2eb1a28043611f57ac90812"
+    "docs/user/INSTALLATION.md": "eabb90c37a8d5888d94234182ee740de3fff6e92c32e9b4e350abae3fee8761e"
   },
   "game_build": "1002133",
   "legacy_snapshot_commit": "a2fe8aa69d62c1d0f79aa47052d4977a3da48982",
-  "local_links_checked": 660,
+  "local_links_checked": 663,
   "published": true,
   "schema": 1,
-  "version": "0.2.0-alpha.48"
+  "version": "0.2.0-alpha.49"
 }

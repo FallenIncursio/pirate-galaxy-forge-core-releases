@@ -2,7 +2,7 @@
 
 [Übersicht](../../README.md) · [Bedienung](HILFE.md) · [Änderungen](../../CHANGELOG.md)
 
-Stand: **Core 0.2.0-alpha.48 · Enhanced 0.2.0-alpha.48 · Spielversion 1002133**.
+Stand: **Core 0.2.0-alpha.49 · Enhanced 0.2.0-alpha.49 · Spielversion 1002133**.
 
 Core enthält die gemeinsame 64-Bit-Technik, allgemeine Fehlerkorrekturen und
 begrenzten Komfort. Enhanced ergänzt dieselbe Grundlage um die Forge-Oberflächen.
@@ -20,6 +20,7 @@ Die Tabelle beschreibt den veröffentlichten Umfang, keine verworfenen Versuche.
 | Abbaulizenzen | Bestätigung von Planet und zusätzlicher Menge, Sperre bis zum geklärten Serverergebnis; ungeklärte Aufträge bleiben lokal gespeichert | Schutz vor versehentlichen Mehrfachzuweisungen, keine automatischen Wiederholungen |
 | Ziele | Remnant-Filter, Sirius-Bauplanfarben, Kryonitmenge | Ergänzung vorhandener Zielinformationen |
 | Einrichtung | Eigener Starter, geprüfte Updates, Reparatur, Profilübernahme innerhalb der Edition | Getrennte Spielkopie mit eigenen Updatekanälen |
+| Speicherpflege | Automatische Bereinigung alter Installationen; aktuelle Version und Vorgänger bleiben erhalten, ebenso Profile und Anmeldungen | Weniger alte Installationskopien ohne Eingriff während des Spielbetriebs |
 | Diagnose | Live-Logs, Start-/Laufzeithängerdiagnose, gezielter Neustart und freiwilliger Bericht | Zusätzliche lokale Fehlersuche |
 | Audio | Keine nachgeholten verdrängten Einmaleffekte, begrenzte Startverzögerung und prioritätsgerechte Kanalvergabe | Gezielte Korrektur bei ausgeschöpften Audiokanälen |
 
