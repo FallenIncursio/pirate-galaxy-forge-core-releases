@@ -2,7 +2,7 @@
 
 [Übersicht](../../README.md) · [Bedienung](HILFE.md) · [Änderungen](../../CHANGELOG.md)
 
-Stand: **Core 0.2.0-alpha.46 · Enhanced 0.2.0-alpha.46 · Spielversion 1002133**.
+Stand: **Core 0.2.0-alpha.48 · Enhanced 0.2.0-alpha.48 · Spielversion 1002133**.
 
 Core enthält die gemeinsame 64-Bit-Technik, allgemeine Fehlerkorrekturen und
 begrenzten Komfort. Enhanced ergänzt dieselbe Grundlage um die Forge-Oberflächen.
@@ -59,6 +59,7 @@ Fehler in jeder Version des 32-Bit-Originals.
 | Updates | Lokale Releasehistorie mit Datum, Versionsreihen und Seitenwechsel; leuchtendes F und einmalige PG-Meldung bei ungelesenen Neuigkeiten | Forge → Updates; Anzeige → Meldungen & Discord |
 | Meldungen | Native PG-Leiste, Alle / Nur wichtige, Testmeldung | Forge → Anzeige → Meldungen & Discord |
 | Anpassung | Statusfarben, eigene Sounds/Musik und lokale Antriebsspuren | Forge → Anzeige / Audio / Antrieb |
+| Legierungen | 27 Legierungen mit Familien-/Farbfilter vergleichen und vorübergehend oder dauerhaft nur lokal am eigenen Schiff anzeigen | Forge → Legierungen |
 
 Die Originalhilfe bleibt in Core erhalten. Enhanced verwendet den Forge-Einstieg.
 Core enthält keine versteckt aktivierbaren Enhanced-Module.
