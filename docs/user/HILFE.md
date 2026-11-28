@@ -35,3 +35,13 @@ Bossleisten, OTB-/Gravitonen-Widgets, Bauplankatalog mit Fundorten/CSV,
 Errungenschaftenfilter und die Spieler-/PvE-Reparaturfeldauswahl gehören zu
 [Enhanced](https://github.com/FallenIncursio/pirate-galaxy-forge-releases). Core und Enhanced teilen ihre Core-Implementierung,
 haben aber getrennte Datenordner und Updatekanäle.
+
+## Abbaulizenzen
+
+Prüfe im Bestätigungsdialog den Planeten und die zusätzlich zugewiesenen Lizenzen.
+Bis zur Serverantwort bleiben Menge und Zuweisung gesperrt. Ein ungeklärtes Ergebnis
+bleibt auch nach einem Neustart gespeichert; Forge wiederholt den Auftrag nicht.
+**Status prüfen** zeigt den nächsten Schritt. Eine bewusste Freigabe ist erst möglich,
+wenn der empfangene Bestand des betroffenen Planeten die bestätigte Zielhöhe erreicht.
+Bei unverändertem Bestand bitte den Support kontaktieren. Eine Klärung weist selbst
+keine Lizenzen zu; andere Clanmitglieder und Installationen werden nicht gesperrt.

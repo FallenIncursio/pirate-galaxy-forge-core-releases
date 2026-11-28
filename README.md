@@ -2,21 +2,21 @@
 
 Inoffizieller 64-Bit-Communityclient für Pirate Galaxy.
 
-**[Windows-Installer herunterladen](https://github.com/FallenIncursio/pirate-galaxy-forge-core-releases/releases/download/v0.2.0-alpha.44/PirateGalaxyForgeCore-0.2.0-alpha.44-Setup.exe)** · **0.2.0-alpha.44**
+**[Windows-Installer herunterladen](https://github.com/FallenIncursio/pirate-galaxy-forge-core-releases/releases/download/v0.2.0-alpha.46/PirateGalaxyForgeCore-0.2.0-alpha.46-Setup.exe)** · **0.2.0-alpha.46**
 
 Gemeinsame 64-Bit-Technik, allgemeine Korrekturen und begrenzter Komfort. Die Originalhilfe bleibt erhalten; zusätzliche Optionen stehen in den Spieleinstellungen.
 
 [Installation](docs/user/INSTALLATION.md) · [Funktionen und 32-Bit-Vergleich](docs/user/FUNKTIONEN.md) · [Bedienung](docs/user/HILFE.md) · [Diagnose](docs/user/DIAGNOSE.md) · [Quellen](docs/sources/QUELLEN.md)
 
-## Neu in 0.2.0-alpha.44
+## Neu in 0.2.0-alpha.46
 
-Keine nachgeholten Schussgeräusche bei vollen Audiokanälen. [Änderungen und Prüfstand](docs/releases/0.2.0-alpha.44.md) · [Alle Versionen](CHANGELOG.md).
+Abbaulizenzen sicher zuweisen. [Änderungen und Prüfstand](docs/releases/0.2.0-alpha.46.md) · [Alle Versionen](CHANGELOG.md).
 
 ## Core und Enhanced
 
 | Core | Enhanced |
 | --- | --- |
-| [0.2.0-alpha.44](https://github.com/FallenIncursio/pirate-galaxy-forge-core-releases) | [0.2.0-alpha.44](https://github.com/FallenIncursio/pirate-galaxy-forge-releases) |
+| [0.2.0-alpha.46](https://github.com/FallenIncursio/pirate-galaxy-forge-core-releases) | [0.2.0-alpha.46](https://github.com/FallenIncursio/pirate-galaxy-forge-releases) |
 | Gemeinsame Technik und ausgewählter Komfort | Core plus zusätzliche Forge-Funktionen |
 
 Getrennte Installationen und Updatekanäle; eine gemeinsame Core-Implementierung.

@@ -2,7 +2,7 @@
 
 [Übersicht](../../README.md) · [Bedienung](HILFE.md) · [Änderungen](../../CHANGELOG.md)
 
-Stand: **Core 0.2.0-alpha.44 · Enhanced 0.2.0-alpha.44 · Spielversion 1002133**.
+Stand: **Core 0.2.0-alpha.46 · Enhanced 0.2.0-alpha.46 · Spielversion 1002133**.
 
 Core enthält die gemeinsame 64-Bit-Technik, allgemeine Fehlerkorrekturen und
 begrenzten Komfort. Enhanced ergänzt dieselbe Grundlage um die Forge-Oberflächen.
@@ -17,6 +17,7 @@ Die Tabelle beschreibt den veröffentlichten Umfang, keine verworfenen Versuche.
 | Darstellung | FPS-Limit bis 240, VSync, HUD-Größe, FPS/Ping unten rechts | Zusätzliche lokale Einstellmöglichkeiten |
 | Bedienung | Verschiebbare Komponenten, Chat-Uhrzeit, Discord-Spielstatus | Komfort ohne Änderung von Serverregeln |
 | Clankasse | Stabile Mitgliedsauswahl, Bestätigung mit Empfänger/Menge und Schutz vor doppelten Zuweisungen | Korrektur einer Sortierungsregression und Absicherung verzögerter Anfragen |
+| Abbaulizenzen | Bestätigung von Planet und zusätzlicher Menge, Sperre bis zum geklärten Serverergebnis; ungeklärte Aufträge bleiben lokal gespeichert | Schutz vor versehentlichen Mehrfachzuweisungen, keine automatischen Wiederholungen |
 | Ziele | Remnant-Filter, Sirius-Bauplanfarben, Kryonitmenge | Ergänzung vorhandener Zielinformationen |
 | Einrichtung | Eigener Starter, geprüfte Updates, Reparatur, Profilübernahme innerhalb der Edition | Getrennte Spielkopie mit eigenen Updatekanälen |
 | Diagnose | Live-Logs, Start-/Laufzeithängerdiagnose, gezielter Neustart und freiwilliger Bericht | Zusätzliche lokale Fehlersuche |
@@ -42,7 +43,7 @@ Fehler in jeder Version des 32-Bit-Originals.
 | Sirius | Bekannte Quarc-Freigabe und Teilezahlen gelber Baupläne; Sortierung und Merkliste | Forge → Anzeige → HUD & Grafik |
 | Errungenschaften | Suche, einklappbare Status-/System-/Bereichsfilter und Sortierung; aktive Filter sichtbar, Scrollposition erhalten, goldene Abschlussanzeige | Pilotenprofil → Errungenschaften; unter Anzeige abschaltbar |
 | Hangar | Eigene Schiffe und Drohnen suchen, nach Klasse/Technologiestufe beziehungsweise Wirkung/Level filtern; Schiffsfavoriten für alle Konfigurationen desselben Modells, Drohnenfavoriten pro Exemplar | Hangarlager; Forge → Anzeige → HUD & Grafik |
-| Bossleisten | HP, Effekte, bekannte Itemklasse, Schild-/Schutzreserve, Zielwahl per Klick | Forge → Anzeige → Bossleisten |
+| Bossleisten | HP, Effekte, bekannte Itemklasse, Schild-/Schutzreserve, Zielwahl per Klick; Königin auch bei alternativer Namensübertragung | Forge → Anzeige → Bossleisten |
 | Bossauftritte | Namen und optionale Musik; Remnants nur XC/SC, außerdem Königin und Sirius-Bosse | Forge → Anzeige → Kampf & Effekte |
 | Staffel | Erweiterte HP-/Effektanzeige und Schild-/Schutzreserve mit optionalen Prozentwerten | Forge → Anzeige → Kampf & Effekte |
 | Clan-Sperrfrist | Restzeit für das ausgewählte Mitglied aus bereits bekannten Beitrittsdaten; unbekannte Werte bleiben gekennzeichnet | Clankasse → Schädel-/Gravitonen-/Kryonit-Zuweisung |
